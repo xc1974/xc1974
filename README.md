@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xc1974
-- 👀 I’m interested in python, HTML and CSS
+- 👀 I’m interested in python, HTML and CSS, c++ (be force to)
 - 🌱 I’m currently learning python
 - and I am also a YT
 - so... hope you can enjoy it!
